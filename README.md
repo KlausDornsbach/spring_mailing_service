@@ -1,0 +1,1 @@
+# spring_mailing_service
